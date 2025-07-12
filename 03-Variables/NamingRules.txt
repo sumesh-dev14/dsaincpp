@@ -1,0 +1,5 @@
+Variables naming rules
+rule 1 - Variables can start with alphabet or underscore or $ 
+rule 2 - specila char except _ and $ are not allowed  cant come in fromt or back of a variable
+rule 3 - comma and spaces are not allowed 
+rule 4 - some key words are not allowed like words of data types 
